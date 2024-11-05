@@ -35,7 +35,7 @@ icon: https://simpleicons.org
     <h3>Tools</h3>
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=white" />
   </div>
-  
+  <br>
 </div>
 
 
