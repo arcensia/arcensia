@@ -26,6 +26,7 @@ icon: https://simpleicons.org
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+    <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat&logo=JS&logoColor=white" />
@@ -51,7 +52,7 @@ icon: https://simpleicons.org
 <!-- 
 백준 티어 출처:https://github.com/mazassumnida/mazassumnida?tab=readme-ov-file
 아래가 코드
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/search?query=zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
 
 
