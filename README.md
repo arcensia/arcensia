@@ -51,8 +51,10 @@ icon: https://simpleicons.org
 </div>
 <!-- 
 백준 티어 출처:https://github.com/mazassumnida/mazassumnida?tab=readme-ov-file
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
-[![zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
