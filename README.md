@@ -54,11 +54,6 @@ icon: https://simpleicons.org
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
-[![https://solved.ac/profile/zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
-
-<!--
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
--->
