@@ -9,9 +9,9 @@ readme header 설정
 출처: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기"/>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90"/>
 <div>
-## Hi!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90"/>
+<h1>Hi!</h1>
 </div>
 
 
@@ -21,7 +21,7 @@ icon: https://simpleicons.org
 -->
 <div align="left">
   <div>
-    #### 📚Tech Stack📚 <br>
+    <h3>📚Tech Stack📚</h3>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -31,7 +31,7 @@ icon: https://simpleicons.org
     <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat&logo=JS&logoColor=white" />
   </div>
   <div>
-    Tools <br>
+    <h3>Tools</h3>
     <img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=white" />
   </div>
   
