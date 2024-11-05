@@ -9,8 +9,8 @@ readme header 설정
 출처: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기"/>
 -->
-<div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90"/>
+<div>
 ## Hi!
 </div>
 
