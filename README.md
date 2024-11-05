@@ -52,7 +52,7 @@ icon: https://simpleicons.org
 <!-- 
 백준 티어 출처:https://github.com/mazassumnida/mazassumnida?tab=readme-ov-file
 -->
-[![https://solved.ac/profile/zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![zxcklwe](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
 
