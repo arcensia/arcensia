@@ -3,7 +3,7 @@
 </div>
 
 [//]: # (<p>From Republic of Korea 🇰🇷</p>)
-<p>AgileSoDA, Back-End Developer(2025.07 ~ 2026.01)</p>
+<p>AgileSoDA, Back-End Developer 풀타임 프리랜서 (2025.07 ~ 2026.01)</p>
 <p>미래융합정보기술, Web Developer(2022.09 ~ 2024.6)</p>
 
 ## 👋 About Me
